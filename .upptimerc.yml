@@ -10,6 +10,7 @@ sites:
     url: https://api.henrikdev.xyz/main/status
 
 status-website:
+  theme: dark
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.henrikdev.xyz
   # Uncomment the following line if you don't have a custom domain and add your repo name
@@ -21,6 +22,12 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: VALORANT API
+      href: https://github.com/Henrik-3/unofficial-valorant-api
+    - title: Rocket League API
+      href: https://github.com/Henrik-3/unofficial-rocket-league-api
+    - title: Rainbow Six Siege API
+      href: https://github.com/Henrik-3/unofficial-rainbow-six-siege-api
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
