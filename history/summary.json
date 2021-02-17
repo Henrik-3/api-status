@@ -4,19 +4,19 @@
     "url": "http://138.201.180.68/ingame/status",
     "icon": "https://favicons.githubusercontent.com/138.201.180.68",
     "slug": "valorant-ingame-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 322,
-    "timeWeek": 273,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 263,
+    "timeDay": 255,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2021-02-17": 0
+      "2021-02-17": 19
     }
   },
   {
