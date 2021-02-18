@@ -5,7 +5,7 @@ repo: api-status # Your GitHub repository name
 # Add your sites here
 sites:
   - name: VALORANT Ingame API
-    url: http://138.201.180.68/ingame/status
+    url: https://api.henrikdev.xyz/valorant/v1/by-puuid/mmr/eu/54942ced-1967-5f66-8a16-1e0dae875641
   - name: General API
     url: https://api.henrikdev.xyz/main/status
     
