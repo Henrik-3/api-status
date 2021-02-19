@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/api.henrikdev.xyz",
     "slug": "valorant-ingame-api",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 294,
-    "timeDay": 342,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "uptime": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 330,
+    "timeDay": 642,
+    "timeWeek": 330,
+    "timeMonth": 330,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2021-02-17": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 551,
-    "timeWeek": 638,
-    "timeMonth": 638,
-    "timeYear": 638,
+    "time": 622,
+    "timeDay": 439,
+    "timeWeek": 622,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {}
   }
 ]
