@@ -1,7 +1,7 @@
 url: https://api.henrikdev.xyz/valorant/v1/by-puuid/mmr/eu/54942ced-1967-5f66-8a16-1e0dae875641
-status: up
-code: 200
-responseTime: 661
-lastUpdated: 2021-05-08T23:01:28.912Z
+status: down
+code: 429
+responseTime: 579
+lastUpdated: 2021-05-09T22:03:43.768Z
 startTime: Sat Feb 13 2021 12:19:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
