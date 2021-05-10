@@ -6,8 +6,18 @@ repo: api-status # Your GitHub repository name
 sites:
   - name: VALORANT Ingame API
     url: https://api.henrikdev.xyz/valorant/v1/by-puuid/mmr/eu/54942ced-1967-5f66-8a16-1e0dae875641
+    expectedStatusCodes:
+      - 200
+      - 204
+      - 404
+      - 429
   - name: General API
     url: https://api.henrikdev.xyz/main/status
+    expectedStatusCodes:
+      - 200
+      - 204
+      - 404
+      - 429
     
 workflowSchedule:
   graphs: "0 0 * * *"
